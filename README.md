@@ -12,6 +12,10 @@ In this project I created a simple-to-understand coffee sales dashboard to show 
 6. Create a new column that has the full coffee type name and roast type name by writing multiple IF statements: column names will be Coffee Type Name and Roast Type Name.
 7. Format the order date column as the following: 01-Jan-2023, this will help the end user know the exact date no matter where they are located.
 8. Convert the modified data sheet to a table, this will make updating our pivot tables easier.
-9. 
+9. The following Pivot Table will need to be created:
+    - Total Sales: Get the total amount of sales for each coffee type
+    - Top 5 Customers: Get the top 5 customers that have generated the most sales towards the business
+    - Country Sales: Get the total amount of sales for each country
+
 
 
