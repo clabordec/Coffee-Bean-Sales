@@ -4,6 +4,8 @@ In this project I created a simple-to-understand coffee sales dashboard to show 
 
 
 ## Project Overview
-1. 
+1. Review the companies raw data sheet, the sheet contains a orders tab, customers tab and products tab.
+2. Make a copy of the orders sheet, and rename the original sheet as orders_raw.
+3. 
 
 
