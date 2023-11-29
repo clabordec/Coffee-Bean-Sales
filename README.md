@@ -18,6 +18,6 @@ In this project I created a simple-to-understand coffee sales dashboard to show 
     - Country Sales: Get the total amount of sales for each country
 10. Insert Pivot Charts to showcase the live results for the following sheets:
 11. Insert a timeline to showcase the live results.
-12. Deliver the final resukts to the sales team.
+12. Deliver the final results to the sales team.
 
 
