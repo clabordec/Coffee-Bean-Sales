@@ -3,7 +3,7 @@ The Coffee Bean Sales Analysis project is aimed at exploring sales data from a c
 
 <br>
 
-### Key Components:
+### Key Components
 
 #### Data Collection and Preprocessing:
 - Collect sales data from various sources, including transaction records, customer feedback, and market research.
@@ -32,7 +32,7 @@ The Coffee Bean Sales Analysis project is aimed at exploring sales data from a c
 
 <br>
 
-### Benefits:
+### Benefits
 
 - <b>Informed Decision Making</b>: Provide stakeholders with actionable insights derived from thorough analysis of coffee bean sales data, enabling data-driven decision-making across all levels of the organization.
 
