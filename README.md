@@ -1,22 +1,46 @@
-## Project Overview
-In this project I created a simple-to-understand coffee sales dashboard to show the amount of sales generated from years 2019 through 2022 for the following countries: United Kingdom, Ireland and the United States.
+### Objective
+The Coffee Bean Sales Analysis project is aimed at exploring sales data from a coffee bean distributor to uncover insights that can inform strategic decisions and optimize business operations. By analyzing sales trends, customer preferences, and market dynamics, this project seeks to improve sales performance, enhance customer satisfaction, and drive business growth in the competitive coffee market.
 
 <br>
 
-1. Review the companies raw data sheet, the sheet contains a orders tab, customers tab and products tab.
-2. Make a copy of the orders sheet, and rename the original sheet as orders_raw.
-3. Gather the customer data using XLOOKUP: columns Customer Name, Email and Country.
-4. Gather the products data using INDEX MATCH: column Coffee Type, Roast Type, Size and Unit Price.
-5. Populate the Sales column with a very simple mulriplication formula: multiply the Unit Price with the Quantity.
-6. Create a new column that has the full coffee type name and roast type name by writing multiple IF statements: column names will be Coffee Type Name and Roast Type Name.
-7. Format the order date column as the following: 01-Jan-2023, this will help the end user know the exact date no matter where they are located.
-8. Convert the modified data sheet to a table, this will make updating our pivot tables easier.
-9. The following Pivot Table will need to be created:
-    - Total Sales: Get the total amount of sales for each coffee type
-    - Top 5 Customers: Get the top 5 customers that have generated the most sales towards the business
-    - Country Sales: Get the total amount of sales for each country
-10. Insert Pivot Charts to showcase the live results for the following sheets:
-11. Insert a timeline to showcase the live results.
-12. Deliver the final results to the sales team.
+### Key Components:
 
+Data Collection and Preprocessing:
+Collect sales data from various sources, including transaction records, customer feedback, and market research.
+Cleanse and preprocess the data to remove duplicates, handle missing values, and ensure consistency.
+Standardize data formats and merge relevant datasets for comprehensive analysis.
 
+Exploratory Data Analysis (EDA):
+Conduct EDA to understand the distribution and characteristics of coffee bean sales.
+Analyze sales patterns over time, by region, and across different product categories.
+Visualize key metrics such as sales volume, revenue, and customer demographics to identify trends and outliers.
+
+Customer Segmentation:
+Segment customers based on their purchasing behavior, preferences, and geographical location.
+Identify high-value customer segments for targeted marketing campaigns and personalized promotions.
+Analyze customer lifetime value (CLV) and churn rates to devise strategies for customer retention and acquisition.
+Product Analysis:
+
+Evaluate the performance of different coffee bean varieties, blends, and packaging sizes.
+Identify best-selling products, seasonal trends, and opportunities for product innovation.
+Optimize inventory management by forecasting demand, minimizing stockouts, and managing shelf-life effectively.
+
+Market Analysis:
+Assess market trends, competitor strategies, and consumer preferences in the coffee industry.
+Identify emerging market opportunities and potential threats to the business.
+Incorporate external factors such as economic indicators, weather patterns, and cultural trends into the analysis.
+
+<br>
+
+Benefits:
+
+Informed Decision Making: Provide stakeholders with actionable insights derived from thorough analysis of coffee bean sales data, enabling data-driven decision-making across all levels of the organization.
+Targeted Marketing Strategies: Segment customers based on their preferences and behaviors to tailor marketing campaigns, promotions, and product offerings, resulting in improved customer engagement and conversion rates.
+Optimized Product Portfolio: Identify top-performing products and optimize the product mix to meet customer demand, maximize profitability, and stay ahead of market trends.
+Enhanced Customer Experience: By understanding customer preferences and addressing their needs more effectively, the project can lead to improved customer satisfaction, loyalty, and retention.
+
+Competitive Advantage: By leveraging insights from the project to adapt quickly to changing market conditions, anticipate customer demands, and capitalize on emerging opportunities, the coffee bean distributor can gain a competitive edge in the dynamic coffee market.
+
+<br>
+
+The Coffee Bean Sales Analysis project empowers the coffee bean distributor with the analytical tools and insights necessary to navigate the complexities of the market, strengthen customer relationships, and drive sustainable business growth.
