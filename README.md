@@ -48,7 +48,7 @@ The Coffee Bean Sales Analysis project is aimed at exploring sales data from a c
 
 The Coffee Bean Sales Analysis project empowers the coffee bean distributor with the analytical tools and insights necessary to navigate the complexities of the market, strengthen customer relationships, and drive sustainable business growth.
 
-<br<
+<br>
 
 ### Tools
 - Excel
